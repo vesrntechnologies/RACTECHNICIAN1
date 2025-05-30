@@ -242,15 +242,63 @@ let questions = [
     ]
   },
      {
-    numb: 20,
-    question: "Which medium isused to extiguish Class-A fire?",
-    //immg:"img19",
-    answer: "Water",
+    numb: 21,
+    question: "What is the use of the tool in bevelling a drilled hole on job?",
+    immg:"img21",
+    answer: "Counter Sinking",
     options: [
-      "CO2",
-      "Foam",
+      "Drilling",
+      "Reaming",
+      "Counter Sinking",
+      "Counter boring"
+    ]
+  },
+    {
+    numb: 22,
+    question: "Which material is used to clean oil and grease on the floor?",
+   // immg:"img21",
+    answer: "Saw Dust",
+    options: [
+      "Cotton Waste",
+      "Saw Dust",
       "Water",
-      "Dry powder"
+      "Air"
+    ]
+  },
+    {
+    numb: 23,
+    question: "What is the least count of vernier calipers?",
+    immg:"img23",
+    answer: "0.02",
+    options: [
+      "0.01",
+      "0.02",
+      "0.10",
+      "0.20"
+    ]
+  },
+      {
+    numb: 24,
+    question: "Which operation is progressed on the job?",
+    immg:"img24",
+    answer: "Reaming",
+    options: [
+      "Drilling",
+      "Marking",
+      "Tapping",
+      "Reaming"
+    ]
+  },
+     {
+    numb: 25,
+    question: "Which operation is progress by snips?",
+    immg:"img25",
+    answer: "Trimming cylinder",
+    options: [
+      "Straight cutting",
+      "Steel tube cutting",
+      "Trimming cylinder",
+      "Copper tube cutting"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
