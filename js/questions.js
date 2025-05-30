@@ -60,6 +60,199 @@ let questions = [
       "Shear"
     ]
   },
+      {
+    numb: 6,
+    question: "What is the name of the tool used for bending sheet metal?",
+    immg:"img6",
+    answer: "Blow horn stake",
+    options: [
+      "Bevel edged square stake",
+      "Blow horn stake",
+      "Hatchet stake",
+      "Square stake"
+    ]
+  },
+      {
+    numb: 7,
+    question: "What is the name of part marked as X in snips?",
+    immg:"img7",
+    answer: "Stops",
+    options: [
+      "Handle",
+      "Black",
+      "Stops",
+      "Bolt"
+    ]
+  },
+      {
+    numb: 8,
+    question: "What is the name of the soldering tool?",
+    immg:"img8",
+    answer: "Soldering gun",
+    options: [
+      "Blow lamp",
+      "Pot and ladle",
+      "Soldering gun",
+      "Soldering iron"
+    ]
+  },
+      {
+    numb: 9,
+    question: "Which tool is ued for bending long sheet metal?",
+   // immg:"img8",
+    answer: "Folding bar",
+    options: [
+      "Folding bar",
+      "Bench Vice",
+      "Hand Vice",
+      "Shear"
+    ]
+  },
+      {
+    numb: 10,
+    question: "Which tool is used for tightening the odd size bolts and nuts?",
+   // immg:"img8",
+    answer: "Adjustable spanner",
+    options: [
+      "Socket set",
+      "Nose pliers",
+      "Ring spanner",
+      "Adjustable spanner"
+    ]
+  },
+      {
+    numb: 11,
+    question: "Which tool is uded for trimming the edges of a sheet metal cylinder?",
+   // immg:"img8",
+    answer: "Bent snips",
+    options: [
+      "Straight snips",
+      "Bent snips",
+      "Tube cutter",
+      "Scissors"
+    ]
+  },
+     {
+    numb: 12,
+    question: "What is smoothering in fire extingusishing?",
+   // immg:"img8",
+    answer: "Cutting off oxygen supply to fire",
+    options: [
+      "Pouring of CTC",
+      "Flashing with dry powder",
+      "Use water to lower temperature",
+      "Cutting off oxygen supply to fire"
+    ]
+  },
+    {
+    numb: 13,
+    question: "What is starving in extingushing the fire?",
+   // immg:"img8",
+    answer: "Removal of fuel",
+    options: [
+      "Adding fuel",
+      "Removal of fuel",
+      "Clearing the hazards",
+      "Stop the supply of oxygen"
+    ]
+  },
+     {
+    numb: 14,
+    question: "What is the material composition of a Tin mans solder?",
+   // immg:"img8",
+    answer: "50% Tin 50% Lead",
+    options: [
+      "50% Tin 50% Zinc",
+      "50% Tin 50% Lead",
+      "50% Zinc 50% lead",
+      "50% Tin 50% Bronze"
+    ]
+  },
+      {
+    numb: 15,
+    question: "What is the name of part marked as X in outside micrometer?",
+    immg:"img15",
+    answer: "Barrel",
+    options: [
+      "Barrel",
+      "Spindle",
+      "Lock nut",
+      "Steel frame"
+    ]
+  },
+       {
+    numb: 16,
+    question: "Which is the point angle of a twist drill used for zinc alloy?",
+   // immg:"img15",
+    answer: "118o",
+    options: [
+      "90o",
+      "100o",
+      "118o",
+      "125o"
+    ]
+  },
+       {
+    numb: 17,
+    question: "What is the angle of the itp of centre punch?",
+   // immg:"img15",
+    answer: "90o",
+    options: [
+      "30o",
+      "60o",
+      "90o",
+      "125o"
+    ]
+  },
+      {
+    numb: 18,
+    question: "Which file is used for filing wood?",
+   // immg:"img15",
+    answer: "Smooth file",
+    options: [
+      "Double cut file",
+      "Single cut file",
+      "Smooth file",
+      "Rasp cut file"
+    ]
+  },
+
+     {
+    numb: 19,
+    question: "Which operation is in progress?",
+    immg:"img19",
+    answer: "Tapping",
+    options: [
+      "Reaming",
+      "Marking",
+      "Tapping",
+      "Drilling"
+    ]
+  },
+      {
+    numb: 20,
+    question: "Which medium isused to extiguish Class-A fire?",
+    //immg:"img19",
+    answer: "Water",
+    options: [
+      "CO2",
+      "Foam",
+      "Water",
+      "Dry powder"
+    ]
+  },
+     {
+    numb: 20,
+    question: "Which medium isused to extiguish Class-A fire?",
+    //immg:"img19",
+    answer: "Water",
+    options: [
+      "CO2",
+      "Foam",
+      "Water",
+      "Dry powder"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
