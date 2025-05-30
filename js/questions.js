@@ -301,6 +301,30 @@ let questions = [
       "Copper tube cutting"
     ]
   },
+    {
+    numb: 26,
+    question: "Which operation is in progress?",
+    immg:"img26",
+    answer: "Punching",
+    options: [
+      "Cutting",
+      "Drilling",
+      "Marking",
+      "Punching"
+    ]
+  },
+    {
+    numb: 27,
+    question: "What is the name of part marked as X in surface gauge?",
+    immg:"img27",
+    answer: "Snug",
+    options: [
+      "Nut",
+      "Snug",
+      "Base",
+      "Spindle"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
