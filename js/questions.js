@@ -325,6 +325,282 @@ let questions = [
       "Spindle"
     ]
   },
+    {
+    numb: 28,
+    question: "What is the name of the caliper having one leg with an adjustable divider point and other leg is bent?",
+    //immg:"img27",
+    answer: "Jenny Caliper",
+    options: [
+      "Jenny Caliper",
+      "Inside Caliper",
+      "Outside Caliper",
+      "Spring Joint Caliper"
+    ]
+  },
+      {
+    numb: 29,
+    question: "What is the least count of a metric micrometer?",
+    //immg:"img27",
+    answer: "0.01mm",
+    options: [
+      "0.02mm",
+      "0.01mm",
+      "0.001mm",
+      "000.1mm"
+    ]
+  },
+     {
+    numb: 30,
+    question: "What is the type of fire class?",
+    immg:"img30",
+    answer: "Class B fire",
+    options: [
+      "Class A fire",
+      "Class B fire",
+      "Class C fire",
+      "Class D fire"
+    ]
+  },
+     {
+    numb: 31,
+    question: "What is the ideal temperature for bacteria to grow slowly?",
+   // immg:"img30",
+    answer: "4o C",
+    options: [
+      "2o C",
+      "3o C",
+      "4o C",
+      "5o C"
+    ]
+  },
+      {
+    numb: 32,
+    question: "What is the method for preserving food for extended period?",
+   // immg:"img30",
+    answer: "Fast Freezing",
+    options: [
+      "Air Conditioning",
+      "Heating",
+      "Fast Freezing",
+      "Ventilation"
+    ]
+  },
+     {
+    numb: 33,
+    question: "What is the angle of teeth for a single cut file?",
+   // immg:"img30",
+    answer: "60o",
+    options: [
+      "45o",
+      "60o",
+      "70o",
+      "90o"
+    ]
+  },
+     {
+    numb: 34,
+    question: "Which tool is used for holding work pieces?",
+   // immg:"img30",
+    answer: "Bench Vice",
+    options: [
+      "Stakes",
+      "Shear",
+      "Bench Vice",
+      "Folding bar"
+    ]
+  },
+      {
+    numb: 35,
+    question: "What is the angle of blade of try square?",
+   // immg:"img30",
+    answer: "90o",
+    options: [
+      "45o",
+      "60o",
+      "70o",
+      "90o"
+    ]
+  },
+       {
+    numb: 36,
+    question: "Which hand tool is used for checking vertical alignment of wall?",
+   // immg:"img30",
+    answer: "plum bob",
+    options: [
+      "Try square",
+      "Steel rule",
+      "Measuring tape",
+      "plumb bob"
+    ]
+  },
+     {
+    numb: 37,
+    question: "What is the instrument is used for measuring the thickness of sheet metal?",
+   // immg:"img30",
+    answer: "standard wire gauge",
+    options: [
+      "steel rule",
+      "try square",
+      "standard wire gauge",
+      "measuring tape"
+    ]
+  },
+     {
+    numb: 38,
+    question: "How many types of rivets are there?",
+   // immg:"img30",
+    answer: "4",
+    options: [
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+       {
+    numb: 39,
+    question: "What are the two classifications of system of units?",
+   // immg:"img30",
+    answer: "Fundamental and derived",
+    options: [
+      "British and metric",
+      "Gravitational and non gravitational",
+      "Fundamental and derived",
+      "metric and international"
+    ]
+  },
+     {
+    numb: 40,
+    question: "What are fundamental units?",
+   // immg:"img30",
+    answer: "Length, Mass, Time",
+    options: [
+      "Length, Mass, Volume",
+      "Length, Mass, Time",
+      "Length, Mass, Area",
+      "Length, Pressure, Volume"
+    ]
+  },
+    {
+    numb: 41,
+    question: "What denotes letter M in MKS System?",
+   // immg:"img30",
+    answer: "Meter",
+    options: [
+      "Mile",
+      "Meter",
+      "Millimeter",
+      "Micron"
+    ]
+  },
+     {
+    numb: 42,
+    question: "How many millimeters are there in 1 inch?",
+   // immg:"img30",
+    answer: "25.4mm",
+    options: [
+      "2.54mm",
+      "25.4mm",
+      "24.5mm",
+      "2.45mm"
+    ]
+  },
+     {
+    numb: 43,
+    question: "What is the squre root of 529?",
+   // immg:"img30",
+    answer: "23",
+    options: [
+      "25",
+      "23",
+      "24",
+      "33"
+    ]
+  },
+    {
+    numb: 44,
+    question: "Convert 0.456 decimal fraction into percentage?",
+   // immg:"img30",
+    answer: "45.6%",
+    options: [
+      "45.6%",
+      "4.56%",
+      "0.456%",
+      "0.0456"
+    ]
+  },
+      {
+    numb: 45,
+    question: "Convert 0.456 decimal fraction into percentage?",
+    immg:"img45",
+    answer: "water",
+    options: [
+      "water",
+      "concrete",
+      "asbestos",
+      "glass"
+    ]
+  },
+     {
+    numb: 46,
+    question: "Identify the conventional symbol of material?",
+    immg:"img46",
+    answer: "wood",
+    options: [
+      "lead",
+      "glass",
+      "wood",
+      "paper"
+    ]
+  },
+    {
+    numb: 47,
+    question: "Identify the name of instrument?",
+    immg:"img47",
+    answer: "protractor",
+    options: [
+      "set square",
+      "protractor",
+      "french curve",
+      "T square"
+    ]
+  },
+     {
+    numb: 48,
+    question: "Identify the name of set square",
+    immg:"img48",
+    answer: "45o set square",
+    options: [
+      "15o set square",
+      "65o set square",
+      "30o set square",
+      "45o set square"
+    ]
+  },
+    {
+    numb: 49,
+    question: "Compass used to draw for____",
+   // immg:"img48",
+    answer: "circle",
+    options: [
+      "rectangle",
+      "suare",
+      "circle",
+      "triangle"
+    ]
+  },
+       {
+    numb: 50,
+    question: "a=5, b=10 then a+b=?",
+   // immg:"img48",
+    answer: "15",
+    options: [
+      "15",
+      "-5",
+      "5",
+      "-15"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
